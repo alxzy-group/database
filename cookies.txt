@@ -1,72 +1,226 @@
-# Netscape HTTP Cookie File
-# https://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file! Do not edit.
-
-www.google.com	FALSE	/recaptcha	TRUE	1785204623	_GRECAPTCHA	09AKhCRwgaraj2sQ1bimu-C6lu4RlhWZl7u0sNK8tKXZ2oJw_ef2wYGeB2ZAD7ycqWiNCrgbbAY2FgUMJJUO8EL-c
-.google.com	TRUE	/verify	TRUE	1785463816	SNID	AEEKqIsZYk7JKd-k8EY8bbm1ENHy-iv8Oo9Ylx2ohtZvN2SFknvvaC5PsAWqUoaLNknYjQMt1L-8OXnqVnohHCKdYktGgj0iXw
-.google.com	TRUE	/	TRUE	1785204615	AEC	AaJma5vwl2E0pHAOwrioTUK-E7fNEP_m4Rkm2NkXqvQUrr7ZE6gm-zuvTcA
-.google.com	TRUE	/	TRUE	1785204615	__Secure-BUCKET	CEU
-.google.com	TRUE	/	FALSE	1769663416	GOOGLE_ABUSE_EXEMPTION	ID=6968da61d5fb80ad:TM=1769652618:C=R:IP=98.142.245.190-:S=wBgL7LsdNnRRwUY2i5gaEus
-.youtube.com	TRUE	/	TRUE	1769654584	GPS	1
-.youtube.com	TRUE	/	TRUE	0	YSC	z9pamZb-89w
-.youtube.com	TRUE	/	TRUE	1785205753	VISITOR_INFO1_LIVE	W_8_DYuy8_U
-.youtube.com	TRUE	/	TRUE	1785205753	VISITOR_PRIVACY_METADATA	CgJJRBIEGgAgHg%3D%3D
-accounts.google.com	FALSE	/	TRUE	1772244800	OTZ	8455813_28_28__28_
-.google.com	TRUE	/	FALSE	1804213140	SID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPlQkueC02ZfKch_0w9LqZWgACgYKAZQSARASFQHGX2Migki4e2Uj3t5P5i4TD1MgCBoVAUF8yKo02IjzNuKk7YWPU15ZVABa0076
-.google.com	TRUE	/	TRUE	1804213140	__Secure-1PSID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPXai7cnMQjG7Nd7hazC9DagACgYKATkSARASFQHGX2Mi4whiW9tgoucKj_Dr-gNqIhoVAUF8yKrMN82vCF2yuDmKIM6WinGx0076
-.google.com	TRUE	/	TRUE	1804213140	__Secure-3PSID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPOe8CoXfQO10x19MKkBJdAwACgYKAUgSARASFQHGX2Mi8duaK6cGA1-_RE4Z2AAaixoVAUF8yKocLTkFgai6mueTcL_H_WSh0076
-.google.com	TRUE	/	FALSE	1804213140	HSID	ABRWsampBqlUcVPDu
-.google.com	TRUE	/	TRUE	1804213140	SSID	Aq4MNMCBMmXsJb-Xl
-.google.com	TRUE	/	FALSE	1804213140	APISID	-kR5ojGlKHr911-5/AmRnnjdGKOlvQ2SyT
-.google.com	TRUE	/	TRUE	1804213140	SAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.google.com	TRUE	/	TRUE	1804213140	__Secure-1PAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.google.com	TRUE	/	TRUE	1804213140	__Secure-3PAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-accounts.google.com	FALSE	/	TRUE	1804213140	__Host-GAPS	1:XZOIh_624bN3lhzqxug1xW1f90n7hg9_8RNBNW6S70w6XhzfbkvosO4Yrzl1ap9wPxcLOMiLrUSZ3LUsj8TS8i8MUoixQQ:wibS_Sb1wntUdq5y
-accounts.google.com	FALSE	/	TRUE	1804213145	ACCOUNT_CHOOSER	AFx_qI44RQ-jgHkqspsgrVAWlgxxgXIV9HiiwEdgQ7XgwOMInrqA5bV1NdzKBqlqMXzeMPtNRCV_qWpNHjYZtDBolq5XJyoeUknBR3BTkNHI6va70TThqrUuAYbb_T1mtQe9w87W-lmD
-.youtube.com	TRUE	/	TRUE	1801189146	__Secure-1PSIDTS	sidts-CjUB7I_69NMbJie7SUFdupoO9Pp2l5_bzUMnLRH6EVAslkktrukIjrIW_54o1nDKAce2XKjXBBAA
-.youtube.com	TRUE	/	TRUE	1801189146	__Secure-3PSIDTS	sidts-CjUB7I_69NMbJie7SUFdupoO9Pp2l5_bzUMnLRH6EVAslkktrukIjrIW_54o1nDKAce2XKjXBBAA
-.youtube.com	TRUE	/	FALSE	1804213146	HSID	AAYUbE5_xmSs98eaV
-.youtube.com	TRUE	/	TRUE	1804213146	SSID	AQZUTzoJHcyJ0Hoxm
-.youtube.com	TRUE	/	FALSE	1804213146	APISID	-kR5ojGlKHr911-5/AmRnnjdGKOlvQ2SyT
-.youtube.com	TRUE	/	TRUE	1804213146	SAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.youtube.com	TRUE	/	TRUE	1804213146	__Secure-1PAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.youtube.com	TRUE	/	TRUE	1804213146	__Secure-3PAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.youtube.com	TRUE	/	FALSE	1804213146	SID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPlQkueC02ZfKch_0w9LqZWgACgYKAZQSARASFQHGX2Migki4e2Uj3t5P5i4TD1MgCBoVAUF8yKo02IjzNuKk7YWPU15ZVABa0076
-.youtube.com	TRUE	/	TRUE	1804213146	__Secure-1PSID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPXai7cnMQjG7Nd7hazC9DagACgYKATkSARASFQHGX2Mi4whiW9tgoucKj_Dr-gNqIhoVAUF8yKrMN82vCF2yuDmKIM6WinGx0076
-.youtube.com	TRUE	/	TRUE	1804213146	__Secure-3PSID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPOe8CoXfQO10x19MKkBJdAwACgYKAUgSARASFQHGX2Mi8duaK6cGA1-_RE4Z2AAaixoVAUF8yKocLTkFgai6mueTcL_H_WSh0076
-.google.co.id	TRUE	/	FALSE	1804213146	HSID	AAYUbE5_xmSs98eaV
-.google.co.id	TRUE	/	TRUE	1804213146	SSID	AQZUTzoJHcyJ0Hoxm
-.google.co.id	TRUE	/	FALSE	1804213146	APISID	-kR5ojGlKHr911-5/AmRnnjdGKOlvQ2SyT
-.google.co.id	TRUE	/	TRUE	1804213146	SAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.google.co.id	TRUE	/	TRUE	1804213146	__Secure-1PAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.google.co.id	TRUE	/	TRUE	1804213146	__Secure-3PAPISID	XV_aI858O5D0suBY/A8BfImW4WixpRAPww
-.google.co.id	TRUE	/	TRUE	1785464346	NID	528=jDavQfTaygflQikHZQaxMw5a4I6DSmrbuXGSHnAVRwt6eim1gBWEMQXkIZ5Awyoyg4KwARF6Du-QA_sIMzfpTBY6S3JUieUFbMBOTr68kRHG2m-CayazvQlvbBqw8cFWuLgI4XFwUqlMGEeR-RCg7BM2S6zLL0bv66a5CDE0Xn9tM5MdmeIOPTP8Oo2fAt9hxDeAe9cN4kfx3TET5c4CMfToGvbw
-.google.co.id	TRUE	/	FALSE	1804213146	SID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPlQkueC02ZfKch_0w9LqZWgACgYKAZQSARASFQHGX2Migki4e2Uj3t5P5i4TD1MgCBoVAUF8yKo02IjzNuKk7YWPU15ZVABa0076
-.google.co.id	TRUE	/	TRUE	1804213146	__Secure-1PSID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPXai7cnMQjG7Nd7hazC9DagACgYKATkSARASFQHGX2Mi4whiW9tgoucKj_Dr-gNqIhoVAUF8yKrMN82vCF2yuDmKIM6WinGx0076
-.google.co.id	TRUE	/	TRUE	1804213146	__Secure-3PSID	g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPOe8CoXfQO10x19MKkBJdAwACgYKAUgSARASFQHGX2Mi8duaK6cGA1-_RE4Z2AAaixoVAUF8yKocLTkFgai6mueTcL_H_WSh0076
-.youtube.com	TRUE	/	TRUE	1804213147	LOGIN_INFO	AFmmF2swRAIgL7PDtdzppu9Ztfl3yAv5tkCNUa5MhPv4AddXE_0MzzMCIHIbSpr5yCAl2F_oqYxifaP1X3JGlW4w11zyMrSpMPvE:QUQ3MjNmemVLenZrYi1kdzdyOWI5djVMREhVVTVvWG9uaFN4MUVsN1c2MU1sSXBVWElvV0twZzJzcjNkaDRQTk1lX0J6MW0tME9VazFQYmJSZThaOHg3enVvdVc5dnMwR1JIbGJNOG9QNHpPS0pJY0I3MkctNEUxNUl4dElHSWlIWS1YMXVGVm54MkduRUg1bXF1Yk8xbU9YUXhnZ0RtYkhR
-.youtube.com	TRUE	/	TRUE	1785205147	__Secure-ROLLOUT_TOKEN	CMPRr970077-wAEQ-4GvrdavkgMYtvjX2tevkgM%3D
-.youtube.com	TRUE	/	TRUE	1804213754	PREF	f6=40000000&tz=Asia.Jakarta&f7=100
-.doubleclick.net	TRUE	/	TRUE	1769654070	test_cookie	CheckForPermission
-.google.com	TRUE	/	FALSE	1785205192	SEARCH_SAMESITE	CgQIgqAB
-accounts.google.com	FALSE	/	TRUE	1804213195	LSID	o.chromewebstore.google.com|s.ID|s.youtube:g.a0006AjtcWL79UXYqPfZ7V5RLgjcp2-MihGcNefLNMKQtwPE4PTvIjw7A0N1VicGFLxka-KkfgACgYKATsSARASFQHGX2MixWihN2Mi9AZBIJ_89CkM2hoVAUF8yKozM9tQKzQGJCp-GVMtWard0076
-accounts.google.com	FALSE	/	TRUE	1804213195	__Host-1PLSID	o.chromewebstore.google.com|s.ID|s.youtube:g.a0006AjtcWL79UXYqPfZ7V5RLgjcp2-MihGcNefLNMKQtwPE4PTvxlN47tnr6a5ZMse0tjSVYQACgYKAfASARASFQHGX2Mif-ZlJbfyh-bWIdUz-o-CHRoVAUF8yKpRNy5TVa4GrQwkoFkzWXiW0076
-accounts.google.com	FALSE	/	TRUE	1804213195	__Host-3PLSID	o.chromewebstore.google.com|s.ID|s.youtube:g.a0006AjtcWL79UXYqPfZ7V5RLgjcp2-MihGcNefLNMKQtwPE4PTvodg0RnFlTRcHeCtl5UkWogACgYKAaMSARASFQHGX2Mie1w4PqUgYvMMM2m9OeOPBBoVAUF8yKoB-lfI2_cl7K8DoOkVeaz40076
-chromewebstore.google.com	FALSE	/	TRUE	1804213195	OSID	g.a0006AjtcYaz-R3HGRrhPwL8narheHsZeAESxiTT6pXiIe97spjfxwenIYreX2fBGXRSUyR36AACgYKAfgSARASFQHGX2Miu_59cWwkSMLg089bGM4UfRoVAUF8yKrVdcMfxkBYwtOzfQqFdFm10076
-chromewebstore.google.com	FALSE	/	TRUE	1804213195	__Secure-OSID	g.a0006AjtcYaz-R3HGRrhPwL8narheHsZeAESxiTT6pXiIe97spjf0xU-0D5glSbQzAsfLxMSPQACgYKAf0SARASFQHGX2MiISgRuvTesUdxbAH8mUqN1BoVAUF8yKqg9Bko_88CRPzvjG_WJ0TB0076
-.chromewebstore.google.com	TRUE	/	FALSE	1804213741	_ga	GA1.1.2016362863.1769653202
-chromewebstore.google.com	FALSE	/	TRUE	1772245203	OTZ	8455820_28_28__28_
-ogs.google.com	FALSE	/	TRUE	1772245205	OTZ	8455820_28_28__28_
-.chromewebstore.google.com	TRUE	/	FALSE	1804213211	_ga_C2WJL5J9RY	GS2.1.s1769653202$o1$g0$t1769653210$j52$l0$h0
-.youtube.com	TRUE	/	TRUE	1769653859	CONSISTENCY	AAsGu9nfd32YI8SUtt-L_pl-nIllgUo3AYg19cvrXGjsdMWJqZh_POO6Bmi1FNh-lZMv2kheOCNPvoyglG4FHfTuUrrS-RM5Ck7AUNr7W_DSj_Yo1Uu0jd_ktDY
-.google.com	TRUE	/	TRUE	1785463816	NID	528=fTPbN6_U6TJCLykXxii148qYS80VmYKy8SkQmAg4pRJAeEL8KVuPClb016LEDVoCF6T40IgfKzXAXFFlVfhGt3y0T_SqUeIWnTFcOymsj-9yjRHIXSo08IcRMXvmaTEIJzeZ5eurooUurbT3Muhdwypafg1i5rf_leEFOuW98H_8PxEC1M2bCqdEFHKt0RdZw3rhZVNlS6eMwjTJaTDk4ENp0RnBR16HPQQ5WmARIqpEPSTyZHIgJlZ-wI2keyBPtuZFM3_k4fEjj5s5ieVQO-v6YWRvY_rzr5YPVNSkH7ZoASEc3ZDseBC8KjyQcPaJWWvwZ6WH1AmTkTcS47M-1GlIr4Kg8suSyAdILheIFUYrooeTi8NSeEqBHJDnTGwO1BFfsudF8OP2--Lu9oT5wuS2ZlhQ-NDulgvEXbbnily7c8eAGnLlfiybU6iJZdchX48Z-ZMKW578BwG7_e6KdmZUE3q--vh1epn-siz6ByIYYFJNq4TU0Ua-ui5ZsphiQiiGfGFfv12Um2PjdqVSJSuydgmxQbCoD04ZRSJl5BH1YBF4KIqjeHH2GBogl0AaW8OKC5tccZv5pvxZN2JzPT0VVPEDgyoN6qvGldpwmbClIYO2n3fiWs5s7Obw5BFss8Wke_PIZ1XqO5YcxXh_C4Jk4wPP3RmdBvR9Z-FvQ44JvkF3Qul-ka30UEbBj8rWRRzCLtMSCUMFDHTMcq02rpNge8p49siFVGHwngmth0WlqYKT7odjg8-o
-.google.com	TRUE	/	TRUE	1769654031	__Secure-STRP	AD6DogsxRzsN5eKXJJKxoevK_29sZ089IXU45c_C6hs_ZAmSBC3ngcVp8ii_6yCcQWwQXf8GAsRmhc-IS8h7V5R7VgP7tej2dA7i
-.googleadservices.com	TRUE	/	TRUE	1777429732	ar_debug	1
-www.google.com	FALSE	/	FALSE	1769654336	DV	kzt_i16s7ZpsoBlZJoN5iS4-lVB5wJlvU3dyzytntAIAAFDlHC2AqIuOuwAAAJiqxvLJRzRPLwAAALwkxYOqKaGkEAAAAB71NcqXBrmQBAAAAA
-.chromewebstore.google.com	TRUE	/	FALSE	1804213751	_ga_KHZNC1Q6K0	GS2.1.s1769653201$o1$g1$t1769653751$j39$l0$h0
-.google.com	TRUE	/	FALSE	1801189753	SIDCC	AKEyXzV1ZYgSa-U6Nni619mMqQp0VJItr8cKFjimZ0piuNqwAUfkx8W7feybv7kElYaZikxj
-.google.com	TRUE	/	TRUE	1801189753	__Secure-1PSIDCC	AKEyXzU_c0sr9LjAUtn4rAMOkU44-tDCpaloRna8AVhG2nwcrNe1ER9_Yqvpb_Q1b70_aJGz
-.google.com	TRUE	/	TRUE	1801189753	__Secure-3PSIDCC	AKEyXzWI1cy3-y8f146iMRgjdmzqYNY1z5r9ojsxlvUey_4ALENrqz9Qm4GjXt5qEVNjlw8
-.youtube.com	TRUE	/	FALSE	1801189757	SIDCC	AKEyXzUPxuDwE3SfGuHJAnOPcT5JsL8wA02n52st5LI6GLpLvjUUJShEGZ41GqkmAjRrQ3Ty
-.youtube.com	TRUE	/	TRUE	1801189757	__Secure-1PSIDCC	AKEyXzUOUdx7n1oeGciVm0H2oPQsV73UJwd7NyrGfm4Db6SWcR7gVok_S0__Yj4mXOkGx_DuHw
-.youtube.com	TRUE	/	TRUE	1801189757	__Secure-3PSIDCC	AKEyXzUjPiwGaC9ntr-aLcfpHSQWwK40j0gUvvnzR6fe3-Y01ZgiJkELKJelsZIswOb4SG7A
+[
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775564,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__Secure-1PAPISID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "XV_aI858O5D0suBY/A8BfImW4WixpRAPww",
+    "id": 1
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775843,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-1PSID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPXai7cnMQjG7Nd7hazC9DagACgYKATkSARASFQHGX2Mi4whiW9tgoucKj_Dr-gNqIhoVAUF8yKrMN82vCF2yuDmKIM6WinGx0076",
+    "id": 2
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1801197451.899949,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-1PSIDCC",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AKEyXzX66MhBxvyN__wdRj3GUupa6nLdqXnfAqCrxRmGJvV6Wlja8LFD4yzmUFGHvLFRVO91kA",
+    "id": 3
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1801189145.774948,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-1PSIDTS",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "sidts-CjUB7I_69NMbJie7SUFdupoO9Pp2l5_bzUMnLRH6EVAslkktrukIjrIW_54o1nDKAce2XKjXBBAA",
+    "id": 4
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775669,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__Secure-3PAPISID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "XV_aI858O5D0suBY/A8BfImW4WixpRAPww",
+    "id": 5
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775934,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-3PSID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPOe8CoXfQO10x19MKkBJdAwACgYKAUgSARASFQHGX2Mi8duaK6cGA1-_RE4Z2AAaixoVAUF8yKocLTkFgai6mueTcL_H_WSh0076",
+    "id": 6
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1801197451.900058,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-3PSIDCC",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AKEyXzUssvAJ6b_WsKfy3udcpS3Evd3TSBqPt6XHSGHIpqcpYeReAKQffVnHFTDZiRvE8ozD",
+    "id": 7
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1801189145.775159,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__Secure-3PSIDTS",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "sidts-CjUB7I_69NMbJie7SUFdupoO9Pp2l5_bzUMnLRH6EVAslkktrukIjrIW_54o1nDKAce2XKjXBBAA",
+    "id": 8
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775406,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "APISID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "-kR5ojGlKHr911-5/AmRnnjdGKOlvQ2SyT",
+    "id": 9
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775255,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "HSID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "AAYUbE5_xmSs98eaV",
+    "id": 10
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213147.156664,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "LOGIN_INFO",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AFmmF2swRAIgL7PDtdzppu9Ztfl3yAv5tkCNUa5MhPv4AddXE_0MzzMCIHIbSpr5yCAl2F_oqYxifaP1X3JGlW4w11zyMrSpMPvE:QUQ3MjNmemVLenZrYi1kdzdyOWI5djVMREhVVTVvWG9uaFN4MUVsN1c2MU1sSXBVWElvV0twZzJzcjNkaDRQTk1lX0J6MW0tME9VazFQYmJSZThaOHg3enVvdVc5dnMwR1JIbGJNOG9QNHpPS0pJY0I3MkctNEUxNUl4dElHSWlIWS1YMXVGVm54MkduRUg1bXF1Yk8xbU9YUXhnZ0RtYkhR",
+    "id": 11
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804221448.644671,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "PREF",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "f6=40000000&tz=Asia.Jakarta&f7=100",
+    "id": 12
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775486,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "SAPISID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "XV_aI858O5D0suBY/A8BfImW4WixpRAPww",
+    "id": 13
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775754,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "SID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "g.a0006AjtcWPqzkE5HYimnJJU0HpVwiK7nsN0s6f8MpPf62D3YsNPlQkueC02ZfKch_0w9LqZWgACgYKAZQSARASFQHGX2Migki4e2Uj3t5P5i4TD1MgCBoVAUF8yKo02IjzNuKk7YWPU15ZVABa0076",
+    "id": 14
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1801197451.899797,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "SIDCC",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "AKEyXzU0TppEyQ7wRv06Y-mBIQOFHGJVmGZ-AU4eUJAVg_9xkRdtsZKCEO661D1-M4Eyv0xq",
+    "id": 15
+},
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1804213145.775331,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "SSID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AQZUTzoJHcyJ0Hoxm",
+    "id": 16
+}
+]
